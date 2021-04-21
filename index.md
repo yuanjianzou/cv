@@ -9,7 +9,7 @@ homepage:
   text: Linkedin
 ---
 
-# Yuanjian **ZOU**
+## Yuanjian **ZOU**
 
 <!--
 include contact information from the front matter
