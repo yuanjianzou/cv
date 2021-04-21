@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: YuanJian Zou
+title: Yuanjian ZOU
 email:
-  url: yuanjian.zou20@student.xjtlu.edu.cn
+  url: 
   text: yuanjian.zou20@student.xjtlu.edu.cn
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://www.linkedin.com/in/yuanjianzou/
+  text: Linkedin
 ---
 
 # Yuanjian **ZOU**
@@ -21,137 +21,134 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+<!--I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include artificial intelligence techniques for mobile robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intelligent machines for the next generation of transportation systems, such as autonomous vehicles for long-haul trucking and urban air mobility systems for passenger transportation. Currently, I focus on two problems: real-time collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the mecanum-wheeled robot. In addition, I am proposing my final year project ideas, such as robot swarms formulation and mission scheduling using an improved AI-enhanced operational research method. Passionate partners in major of MRS, ICS and EST are preffered to do the project together. If there is any collaboration chance, feel free to contact me via e-mail. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.-->
+
+
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `Sept. 2018 - Jun. 2022`
 
 ```
-Pittsburgh, PA
+P. R. China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- B.Sc. in Applied Mathematics;
+<!--## Publication-->
 
-### **Columbia University** `2016.9 - 2018.5`
+<!--
+Journal:
+### [**Real-Time Path Planning for USVs Based on an Improved D* Lite (Being Process)**]()
+Xiaohui Zhu, Bin Yan, Yong Yue, Wei Wang, **Ziniu Wu**, Yijie Chu and Shanliang Yao.<br> 
+_Control Engineering Practice (JCR Q2, IF 3.193)._<br>
+[[PDF]()]
+[[BibTeX]()]
+-->
+<!--
+Poster:
+### [**Simulation of Lithium-ion Battery by COMSOL**]()
+Tongtong Zhang, [**Ziniu Wu**]() and Xi Chen.<br>
+_2019 SURF Poster Day._<br>
+[[PDF]()]
+-->
+## Research Experience
 
-```
-New York, NY
-```
+### [**Research Assistant**]() `Apr. 2020 - Present`
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+_School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
+Project: Development of Micro Aerial Vehicle for On-site Water Sampling.<br>
+Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
-### **Dickinson College** `2013.9 - 2016.5`
+### [**Research Assistant**]() `Sept. 2020 - Apr. 2021`
 
-```
-Carlisle, PA
-```
+_School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
+Project: 3D Modelling of River Systems Based Virtual Reality.<br>
+Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
-## Publications
+_School of Science, Xi'an Jiaotong-Liverpool University_<br>
+Project: Simulation of Lithium-ion Battery by COMSOL.<br>
+Supervisor: Dr. Xi Chen.<br>
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+## Internship Experience
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### [**Intern**]() `Sept. 2020 - Mar. 2021`
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+_Virtrual Engineering Center, AI Univ. Research Center, XJTLU_<br>
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+### [**Student Lecturer**]() `Sept. 2019 - Nov. 2019`
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
+_Xi’an Jiaotong-Liverpool University_<br>
+Course Name: Introduction to Multi-rotors.<br>
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+### [**Engineer Intern**]() `Dec. 2018 - Feb. 2019`
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+_Skysys Intelligent Technology_<br>
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
----
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 -`
-
-_Research Intern_<br>
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Mentoring
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+[**2nd in Online Assessment of RoboMaster 2020**]() `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
+[**3rd in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition**]() `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
+[**Living Book Certificate**]() `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
+<!--[**Outstanding Aesthetic Design Award of RoboMaster 2019**]() `DJI RoboMaster Organizing Committee, Aug. 2019` <br>-->
+[**3rd in International Region of RoboMaster 2019**]() `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+
+## Technical Skills
+
+[**Software & Framework**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS;
+
+[**Programming Language**](): Python, Matlab;
+
+[**Self-taught Course**](): Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI).
+
+## Extracurricular Activities
+
+<!--### [**Team Leader**]() `Mar. 2021 - Present`-->
+
+<!--_The National University Student Intelligent Car Race_<br>-->
+
+### [**Team Leader**]() `Sep. 2020 - Present`
+
+_China's Service Outsourcing Innovation and Entrepreneurship Competition for College Students_<br>
+Supervisor: Dr.Yong Yue and Dr. Xiaohui Zhu
+
+### [**Captain**]() `Aug. 2019 - Jun. 2020`
+
+_XJTLU and UoL RoboMaster Team (GMaster)_<br>
+Advisor: Dr. Chun Zhao.<br>
+
+### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
+
+_XJTLU and UoL RoboMaster Team (GMaster)_<br>
+Advisor: Dr. Chun Zhao.<br>
+
+### [**Vice President**]() `Mar. 2019 - Jun. 2019`
+
+_GMaster Robotics Club, Xi'an Jiaotong-Liverpool University_<br>
+
+
+## Volunteer Experience
+
+### [**Student Volunteer**]() `2019`
+
+_Deep Learning Institute (DLI) GPU Technology Conference 2019_<br>
+
+### [**Volunteer**]() `2019`
+
+_Buddy Program in XJTLU_<br>
+
+### [**Student Volunteer**]() `2019`
+
+_InnovFest Suzhou 2019 (NUS Suzhou Research Institute)_<br>
+
+### [**Student Volunteer**]() `2019`
+
+_IEEE International Conference on IC Design and Technology 2019_<br>
 
 ---
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Apr. 2021 -->
