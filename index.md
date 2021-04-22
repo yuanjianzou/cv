@@ -8,7 +8,7 @@ homepage:
   url: https://www.linkedin.com/in/yuanjianzou/
   text: Linkedin
 ---
-# yokin **ZOU**
+## Yuanjian ZOU
 <!--
 include contact information from the front matter
 Supported arguments:
