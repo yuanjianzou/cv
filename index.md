@@ -2,7 +2,7 @@
 layout: cv
 title: 
 email: 
-  url:  https://yuanjianzou.github.io/yuanjian-cv/
+  url:  https://blog.csdn.net/weixin_49285816?spm=1000.2115.3001.5343
   text: yuanjian.zou20@student.xjtlu.edu.cn
 homepage:
   url: https://www.linkedin.com/in/yuanjianzou/
@@ -31,7 +31,7 @@ Supported arguments:
 P. R. China
 ```
 
-- M.Sc. in Business Analytics;
+- M.Sc. in Business Analytics
 
 ### [**Guangxi University of Finance and Economics**](https://www.gxufe.edu.cn/) `Sept. 2014 - June. 2018`
 
@@ -39,7 +39,7 @@ P. R. China
 P. R. China
 ```
 
-- Bechelor in Accounting;
+- Bachelor of Management in Accounting
 <!--## Publication-->
 
 <!--
