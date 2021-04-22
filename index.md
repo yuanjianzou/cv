@@ -33,7 +33,7 @@ P. R. China
 
 - M.Sc. in Business Analytics;
 
-### [**Guangxi University of Finance&Economics**](https://www.gxufe.edu.cn/) `Sept. 2014 - June. 2018`
+### [**Guangxi University of Finance and Economics**](https://www.gxufe.edu.cn/) `Sept. 2014 - June. 2018`
 
 ```
 P. R. China
@@ -57,9 +57,9 @@ Tongtong Zhang, [**Ziniu Wu**]() and Xi Chen.<br>
 _2019 SURF Poster Day._<br>
 [[PDF]()]
 -->
-## Research Experience
+## Project Experience
 
-### [**Research Assistant**]() `Apr. 2020 - Present`
+### [**Didi A/B Test**]() `Apr. 2020 - Present`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
 Project: Development of Micro Aerial Vehicle for On-site Water Sampling.<br>
