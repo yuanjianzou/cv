@@ -2,12 +2,13 @@
 layout: cv
 title: 
 email: 
-  url:  yuanjian.zou20@student.xjtlu.edu.cn
+  url:  https://yuanjianzou.github.io/yuanjian-cv/
   text: yuanjian.zou20@student.xjtlu.edu.cn
 homepage:
   url: https://www.linkedin.com/in/yuanjianzou/
   text: Linkedin
 ---
+
 # Yuanjian **ZOU**
 <!--
 include contact information from the front matter
@@ -24,13 +25,21 @@ Supported arguments:
 
 ## Education
 
-### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `Sept. 2018 - Jun. 2022`
+### [**Xi'an Jiaotong-Liverpool University**](https://www.liverpool.ac.uk/xjtlu/) `Sept. 2020 - April. 2022`
 
 ```
 P. R. China
 ```
 
-- B.Sc. in Applied Mathematics;
+- M.Sc. in Business Analytics;
+
+### [**Guangxi University of Finance&Economics**](https://www.gxufe.edu.cn/) `Sept. 2014 - June. 2018`
+
+```
+P. R. China
+```
+
+- Bechelor in Accounting;
 <!--## Publication-->
 
 <!--
