@@ -1,14 +1,14 @@
 ---
 layout: cv
 title: Yuanjian ZOU
-email:
+email: yuanjian.zou20@student.xjtlu.edu.cn
   url: 
   text: yuanjian.zou20@student.xjtlu.edu.cn
 homepage:
   url: https://www.linkedin.com/in/yuanjianzou/
   text: Linkedin
 ---
-# Yuanjian ZOU
+# Yuanjian **ZOU**
 <!--
 include contact information from the front matter
 Supported arguments:
