@@ -1,4 +1,4 @@
-nimo-markdown-cv
+yuanjian-markdown-cv
 ================
 
 <p align="center">
