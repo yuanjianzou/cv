@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yuanjian ZOU
+title: 
 email: yuanjian.zou20@student.xjtlu.edu.cn
   url: 
   text: yuanjian.zou20@student.xjtlu.edu.cn
